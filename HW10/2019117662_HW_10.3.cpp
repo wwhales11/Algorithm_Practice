@@ -9,7 +9,7 @@
 #include <climits>
 #include <iterator>
 
-#define MAX 100	
+#define MAX 1000	
 #define INF INT_MAX 	
 
 using namespace std;

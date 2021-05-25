@@ -1,0 +1,19 @@
+/* 
+ * [2019117662] [박수환] 저는 이 소스 코드를 다른 소스 코드를 복사하지 않고 직접 작성하였습니다. 
+ */
+
+#include <iostream>
+#include <algorithm>
+
+#define MAX 256	
+
+using namespace std;
+
+int main(){
+
+	int n;
+
+	cin >> n;	// N 개수 입력
+
+	return 0;
+}
